@@ -1,0 +1,74 @@
+[
+    {
+        "imagesArr": ["./images/hotel__1.svg", "./images/hotel__1.svg", "./images/hotel__1.svg", "./images/hotel__1.svg", "./images/hotel__1.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 116,
+        "nightCost": 130
+    },
+    {
+        "imagesArr": ["./images/hotel__2.svg", "./images/hotel__2.svg", "./images/hotel__2.svg", "./images/hotel__2.svg", "./images/hotel__2.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 1168,
+        "nightCost": 142
+    },
+    {
+        "imagesArr": ["./images/hotel__3.svg", "./images/hotel__3.svg", "./images/hotel__3.svg", "./images/hotel__3.svg", "./images/hotel__3.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 96,
+        "nightCost": 98
+    },
+    {
+        "imagesArr": ["./images/hotel__4.svg", "./images/hotel__4.svg", "./images/hotel__4.svg", "./images/hotel__4.svg", "./images/hotel__4.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 106,
+        "nightCost": 167
+    },
+    {
+        "imagesArr": ["./images/hotel__5.svg", "./images/hotel__5.svg", "./images/hotel__5.svg", "./images/hotel__5.svg", "./images/hotel__5.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 116,
+        "nightCost": 130
+    },
+    {
+        "imagesArr": ["./images/hotel__6.svg", "./images/hotel__6.svg", "./images/hotel__6.svg", "./images/hotel__6.svg", "./images/hotel__6.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 1168,
+        "nightCost": 142
+    },
+    {
+        "imagesArr": ["./images/hotel__7.svg", "./images/hotel__7.svg", "./images/hotel__7.svg", "./images/hotel__7.svg", "./images/hotel__7.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 96,
+        "nightCost": 98
+    },
+    {
+        "imagesArr": ["./images/hotel__8.svg", "./images/hotel__8.svg", "./images/hotel__8.svg", "./images/hotel__8.svg", "./images/hotel__8.svg"],
+        "starsNum": 4,
+        "hotelName": "Hotel name",
+        "cityName": "City",
+        "countryName": "Country",
+        "distanceFromCenter": 106,
+        "nightCost": 167
+    }
+]

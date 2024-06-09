@@ -1,0 +1,23 @@
+[
+    {
+        "avatar": "./images/avatar-1.png",
+        "reviewerName": "Name",
+        "hotelName": "Hotel name",
+        "daysAgoNum": 12,
+        "text": "Lorem ipsum dolor sit amet consectetur. Viverra ultricies enim interdum fermentu tor. Facilisis nulla eun. Ac netus tincidunt arcu er sed."
+    },
+    {
+        "avatar": "./images/avatar-2.png",
+        "reviewerName": "Name",
+        "hotelName": "Hotel name",
+        "daysAgoNum": 19,
+        "text": "Lorem ipsum dolor sit amet consectetur.  Facilisis nulla eun. Ac netus tincidunt sed."
+    },
+    {
+        "avatar": "./images/avatar-3.png",
+        "reviewerName": "Name",
+        "hotelName": "Hotel name",
+        "daysAgoNum": 12,
+        "text": "Viverra ultricies enim interdum fermentu tor. Facilisis nulla eun. Ac netus tincidunt."
+    }
+]
